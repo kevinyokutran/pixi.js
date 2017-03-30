@@ -6,9 +6,9 @@ Pixi Renderer
 [<img src="http://www.pixijs.com/wp-content/uploads/2013/05/headerPanel_projects-898x342.jpg">](http://www.pixijs.com/projects)
 #### JavaScript 2D Renderer ####
 
-The aim of this project is to provide a fast lightweight 2D library that works
+The aim of this project is to provide a fast, lightweight 2D library that works
 across all devices. The Pixi renderer allows everyone to enjoy the power of
-hardware acceleration without prior knowledge of webGL. Also its fast.
+hardware acceleration without prior knowledge of webGL. Also it's fast.
 
 If you’re interested in pixi.js then feel free to follow me on twitter
 ([@doormat23](https://twitter.com/doormat23)) and I will keep you posted!  And
@@ -72,7 +72,7 @@ last 2 examples and allowing us to share the source code :)
 ### Contribute ###
 
 Want to be part of the pixi.js project? Great! All are welcome! We will get there quicker together :)
-Whether you find a bug, have a great feature request or you fancy owning a task from the road map above feel free to get in touch.
+Whether you find a bug, have a great feature request, or you fancy owning a task from the road map, feel free to get in touch.
 
 Make sure to read the [Contributing Guide](https://github.com/GoodBoyDigital/pixi.js/blob/master/CONTRIBUTING.md)
 before submitting changes.
